@@ -1,11 +1,14 @@
 html {
-    background-color: #fea500;
+    background-color: #808080;
 }
 
-body {
-    width: 600px;
-    height: 600px;
-    margin: 0 auto;
-    background-color: #808080;
-    padding: 0 20px 20px;
+h1 {
+    color: white;
+}
+
+.square {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 10px;
+    background-color: #fea500;
 }
