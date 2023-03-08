@@ -1,0 +1,10 @@
+p {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.text1 {
+    background-color: blue;
+}
+.text2 {opacity: 0.33;}
