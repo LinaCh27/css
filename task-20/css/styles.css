@@ -1,0 +1,54 @@
+html {
+    background-color: whitesmoke;
+}
+
+section {
+    background-color: rosybrown;
+}
+
+h1 {
+    background-color: teal;
+}
+
+.text {
+    margin-bottom: 10px;
+}
+
+#p1 {
+    background-color: mintcream;
+    color: rosybrown;
+}
+
+
+#p2 {
+    background-color: rosybrown;
+    color: mintcream;
+}
+
+h2 {
+    background-color: mediumaquamarine
+}
+
+.list {
+    background-color: rosybrown;
+}
+
+#it1 {
+    color: black;
+}
+
+#it2 {
+    color: brown;
+}
+
+#it3 {
+    color: chocolate;
+}
+
+#it4 {
+    color: darkgoldenrod;
+}
+
+#it5 {
+    color: burlywood;
+}
