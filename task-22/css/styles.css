@@ -2,10 +2,10 @@ p {
     color: mediumseagreen;
 }
 
-.heading {
+h1, h3 {
     background-color: seagreen;
 }
 
-body #subheading {
+h1 + h3 {
     color: aliceblue;
 }
