@@ -7,4 +7,7 @@ p {
 .text1 {
     background-color: blue;
 }
-.text2 {opacity: 0.33;}
+
+.text2 {
+    opacity: 0.33;
+}
