@@ -1,0 +1,135 @@
+/* layout 1 */
+/* body {
+    display: flex;
+    color: white;
+    text-align: center;
+    flex-flow: row wrap;
+    width: 400px;
+}
+
+
+.header {
+    background-color: red;
+    padding: 5px;
+    height: 20px;
+    width: 100%;
+    order: 0;
+}
+
+.paragraph {
+    background-color: skyblue;
+    flex-basis: 70%;
+    order: 1;
+}
+
+.aside-l {
+    background-color: green;
+    flex-basis: 100%;
+    order: 3;
+    height: 100px;
+}
+
+.aside-r {
+    background-color: pink;
+    flex-basis: 30%;
+    order: 2;
+}
+
+.footer {
+    background-color: mediumpurple;
+    padding: 5px;
+    height: 20px;
+    flex-basis: 100%;
+    order: 4;
+} */
+
+
+/* layout 2 */
+/* body {
+    display: flex;
+    color: white;
+    text-align: center;
+    flex-flow: row wrap;
+    width: 400px;
+}
+
+.header {
+    background-color: red;
+    padding: 5px;
+    height: 20px;
+    width: 100%;
+    order: 0;
+}
+
+.paragraph {
+    background-color: skyblue;
+    flex-basis: 40%;
+    order: 2;
+}
+
+.aside-l {
+    background-color: green;
+    flex-basis: 30%;
+    order: 1;
+    
+}
+
+.aside-r {
+    background-color: pink;
+    flex-basis: 30%;
+    order: 3;
+}
+
+.footer {
+    background-color: mediumpurple;
+    padding: 5px;
+    height: 20px;
+    flex-basis: 100%;
+    order: 4;
+} */
+
+
+/* layout 3 */
+
+body {
+    display: flex;
+    color: white;
+    text-align: center;
+    flex-direction: column;
+    width: 200px;
+    height: 400px;
+}
+
+.header {
+    background-color: red;
+    padding: 5px;
+    height: 20px;
+    order: 0;
+}
+
+.paragraph {
+    background-color: skyblue;
+    flex-basis: 33%;
+    order: 1;
+}
+
+.aside-l {
+    background-color: green;
+    flex-basis: 33%;
+    order: 2;
+   
+    
+}
+
+.aside-r {
+    background-color: pink;
+    flex-basis: 33%;
+    order: 3;
+}
+
+.footer {
+    background-color: mediumpurple;
+    padding: 5px;
+    height: 20px;
+    order: 4;
+}
